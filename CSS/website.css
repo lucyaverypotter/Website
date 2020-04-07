@@ -1,0 +1,13 @@
+body{
+	background-color: lightgoldenrodyellow;
+	margin: 0;
+	font-family: "verdana", arial;
+}
+header{
+	background-color: wheat;
+	text-align: center;
+}
+header h1{
+	color: cornflowerblue;
+	font-size: 50px;
+}
