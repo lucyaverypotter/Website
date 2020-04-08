@@ -2,12 +2,38 @@ body{
 	background-color: lightgoldenrodyellow;
 	margin: 0;
 	font-family: "verdana", arial;
+	line-height: 25px;
 }
 header{
 	background-color: wheat;
 	text-align: center;
+	padding: 60px;
+	
 }
 header h1{
 	color: cornflowerblue;
 	font-size: 50px;
+	border: 30px lightgray;
+
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+
+}
+main h2{
+	color: darkseagreen;
+	font-size: 25px;
+}
+
+a{
+	color: cornflowerblue;
+}
+a:hover{
+	color: darkseagreen;
+}
+footer{
+	background-color: wheat;
+	text-align: left;
+	padding: 60px;
 }
